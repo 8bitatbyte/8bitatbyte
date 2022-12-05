@@ -41,6 +41,7 @@ Growth mindset для меня не пустой звук, стараюсь вы
 **Протоколы обмена данными:** gRPC, WebSockets, HTTP
 
 **Стилизация компонентов и UI:** SASS/SCSS, styled-components, emotion, stitches, vanilla-extract, linaria, css-modules, tailwind, PostCSS
+
 &nbsp;
 &nbsp;
 
