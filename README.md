@@ -1,49 +1,71 @@
 [![Artem's GitHub Banner](./profile_banner.png)](https://github.com/8bitatbyte)
 
-Привет 👋
+Я Артем.
 
-Меня зовут Артем, я Frontend разработчик.
-У меня 5 лет коммерческого опыта с React фреймворком как с основным инструментом для решения бизнес задач.
-Growth mindset для меня не пустой звук.
-<br><br>
-Также не забываю про life-balance и выгорание (борюсь со стрессом - спортом!).
-Образование в сфере IT, и фундаментальные знания по Computer Science.
-<br><br>
-В свободное время читаю книгу по System Design и узнаю как правильно создавать проекты и применять алгоритмы.
-В этом Github профиле будут примеры моего кода, дабы продемонстрировать актуальные кейсы и возможно MVP.
-<br><br>
-Часть крутых и больших проектов к сожалению под NDA и показать код из них не имею возможности и прав.
-<br><br>
-Мои soft-skills на уровне:
+Работаю в стэке React и у меня более 4 лет опыта Frontend разработчиком.
+
+Также я работал с Vue, Angular, есть понимание смежных фреймворков, что позволило расширить кругозор.
+
+  
+
+Growth mindset для меня не пустой звук, стараюсь выделять время на саморазвитие, но не забываю про life-balance и слежу, чтобы не было burnout (выгорания).
+
+  
+
+Профильное образование в сфере IT, читаю/изучаю фундаментальные знания по computer science и system design.
+
+Английский язык уровня B1, из спорта нравится - бег ~~от дедлайнов~~ на беговой дорожке.
+
+&nbsp;
+
+Мои **hard-skills**:
+
+**Языки программирования:** JavaScript/TypeScript
+
+**Управление состоянием/стэйт менеджеры:** Redux (Redux Toolkit, Deox), MobX (Mobx MST), Effector
+
+**Архитектура Frontend проекта:** Feature Sliced Design, Clean Architecture
+
+**Веб (разметка и стилизация):** HTML 5, CSS 3
+
+**Инфраструктура и сборщики приложений:** Docker, Webpack, Vite, EsBuild, SWC, Rollup (для библиотек и ESM модулей)
+
+**Тестирование:** Jest, Cypress, Playwright, react-testing library
+
+**SSR:** NextJS, Astro, custom NodeJS + Express + React render to string, Stream API
+
+**Бэкенд:** Node/Express, FastAPI
+
+**Другое:** Conventional Commits, Git, Storybook, es-lint, prettier
+
+**Протоколы обмена данными:** gRPC, WebSockets, HTTP
+
+**Стилизация компонентов и UI:** SASS/SCSS, styled-components, emotion, stitches, vanilla-extract, linaria, css-modules, tailwind, PostCSS
+&nbsp;
+&nbsp;
+
+Мои **soft-skills** на уровне:
 
 - менторинга коллег,
+
 - написания внутренних статей для компании и отдела маркетинга,
+
 - налаживания коммуникаций в команде, а также эмпатия во время code-review,
-- Отлично лажу с Тимлидами, Solution Architect и бизнес-аналитиками, а также QA,
-- Умею слушать и слышать критику дизайнеров (pixel-perfect, но без излишнего энтузиазма)
+
+- умею работать в больших командах, с Тимлидом, Solution Architect и бизнес-аналитиками, а также QA (команды от 7 человек и более),
+
+- слушаю и воспринимаю замечания дизайнеров (pixel-perfect, но без излишнего энтузиазма)
+
+&nbsp;
 
 Я люблю дэйли созвоны, ретро.
+
 Особенно когда производится работа и даётся фидбэк, к команде прислушиваются.
-Не против писать тесты (читал и писал простые тесты на JEST и Cypress)
+
+  
 
 Мне важна культура компании, не токсичное руководство и тот самый дружный коллектив.
 
 Дайте мне кофе и я переверну весь мир :)
 
 Random Facts: у меня 2 кошки и я люблю сельдереевый смузи с бананом
-
-<br>
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
